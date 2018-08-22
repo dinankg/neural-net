@@ -1,1 +1,3 @@
-My Implementation of logistic regression on python using numpy.
+My step by step implementation of basic neural networks on python.
+Used numpy to code the networks. 
+Implemented Logistic regression, 1-Layer NN and L-Layer NN for binary classification.
